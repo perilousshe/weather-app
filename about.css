@@ -1,0 +1,17 @@
+body{
+    background-image: linear-gradient(lightblue,white);
+    height:900px;
+}
+h1{
+    text-align: center;
+}
+p{
+    font-size: 25px;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+img{
+    display: flex;
+    margin: auto;
+}
